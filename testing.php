@@ -1,5 +1,7 @@
 Hello 1st commit 
 
+
+Great
 <<<<<<< HEAD
 2nd branch
 =======
